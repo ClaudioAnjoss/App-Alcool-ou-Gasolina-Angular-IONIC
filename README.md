@@ -22,7 +22,7 @@
 <strong>DESAFIOS</strong>
 
 <p>
- Entender sobre conceitos de rotas, módulos e renderização. Essa é minha primeira experiência com Angular.
+ Entender sobre conceitos de rotas, módulos e renderização. Sendo essa minha primeira Experiência com Angular.
 </p>
  
  ##
